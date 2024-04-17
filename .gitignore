@@ -1,0 +1,4 @@
+*.sw[a-z]
+.exercism/*
+.stack-work/*
+stack.yaml.lock
